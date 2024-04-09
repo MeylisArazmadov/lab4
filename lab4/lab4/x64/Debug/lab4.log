@@ -1,5 +1,0 @@
-﻿  main.cpp
-  polynomial.cpp
-C:\Users\Meylis\Desktop\ООП\4\lab4\lab4\polynomial.cpp(3,83): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
-  Создание кода...
-  lab4.vcxproj -> C:\Users\Meylis\Desktop\ООП\4\lab4\x64\Debug\lab4.exe
