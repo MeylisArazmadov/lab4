@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="matrix.h" />
+    <ClInclude Include="polynomial.h" />
+    <ClInclude Include="vector.h" />
+    <ClInclude Include="lib.h" />
+    <ClInclude Include="fraction.h" />
+    <ClInclude Include="complexNumber.h" />
+    <ClInclude Include="triangle.h" />
+    <ClInclude Include="pi.h" />
+    <ClInclude Include="rectangle.h" />
+    <ClInclude Include="rhombus.h" />
+    <ClInclude Include="ellipce.h" />
+    <ClInclude Include="trapezoid.h" />
+    <ClInclude Include="main.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="matrix.cpp" />
+    <ClCompile Include="polynomial.cpp" />
+    <ClCompile Include="vector.cpp" />
+    <ClCompile Include="fraction.cpp" />
+    <ClCompile Include="complexNumber.cpp" />
+    <ClCompile Include="triangle.cpp" />
+    <ClCompile Include="rectangle.cpp" />
+    <ClCompile Include="rhombus.cpp" />
+    <ClCompile Include="ellipce.cpp" />
+    <ClCompile Include="trapezoid.cpp" />
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+</Project>
